@@ -2,6 +2,8 @@
 
 Welcome! This repository contains practical content on enterprise architecture.
 
+💡 Content coming soon – stay tuned!
+
 ## 📚 What’s included?
 
 - Templates and example models for architecture descriptions
